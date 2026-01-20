@@ -1,1 +1,1 @@
-# nl2sql using langchain and tracing via langsmith
+# nl2sql using langchain
